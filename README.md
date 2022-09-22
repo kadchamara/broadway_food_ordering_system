@@ -7,4 +7,8 @@ To run this you need to have Codeblocks(recommended) installed on your computer.
 🔴 username:- user
 🔴 password:- 1234
 
-First, you have to select the menu and quantity. After that, you will be asked to print out the recipt for the customer. After that you can add delivery information and the system will print the final receipt with delivery charge.
+First, you have to select the menu and quantity. After that, you will be asked to print out the receipt for the customer. After that you can add delivery information and the system will print the final receipt with the delivery charge.
+
+Unique things
+
+I thought to make some changes insted of showing black background and white fonts I make color change when enter commands 😛
