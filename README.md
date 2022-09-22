@@ -1,4 +1,12 @@
-Hi Everyone, This is one of the projects that I have done in my Diploma (Computer System Design) second-semester Object-Oriented Subject. 
+Hi Everyone, This is one of the projects that I have done in my Diploma (Computer System Design) second-semester Object-Oriented Subject.
+
+
+![alt text](https://github.com/kadchamara/broadway_food_ordering_system/blob/main/Screenshot%20(316).png?raw=true)
+
+![alt text](https://github.com/kadchamara/broadway_food_ordering_system/blob/main/Screenshot%20(317).png?raw=true)
+
+
+ 
 
 here we have built a simple food ordering system with delivery using OOP concepts. 
 
